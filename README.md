@@ -4,11 +4,11 @@ Hi, I'm Loc 👋
 University: Ho Chi Minh City University of Technology - HUTECH 
 Major: Information Systems
 ## 💻 Interests
-Web Application Development
-Mobile Developing
-Data Management and Analysis
+# Web Application Development
+# Mobile Developing
+# Data Management and Analysis
 ## 📫 How to Reach Me
-Email: locdohong@gmail.com
+# Email: locdohong@gmail.com
        thinhbosua123@gmail.com
-Facebook: https://www.facebook.com/kido.loc.2808/
-GitHub: (https://github.com/thinhbosua123)
+# Facebook: https://www.facebook.com/kido.loc.2808/
+# GitHub: (https://github.com/thinhbosua123)
