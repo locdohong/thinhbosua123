@@ -12,3 +12,4 @@ Major: Information Systems
        thinhbosua123@gmail.com
 # Facebook: https://www.facebook.com/kido.loc.2808/
 # GitHub: (https://github.com/thinhbosua123)
+# https://thinhbosua123.github.io/Portfolio/
