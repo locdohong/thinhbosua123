@@ -9,7 +9,7 @@ Major: Information Systems
 # Data Management and Analysis
 ## 📫 How to Reach Me
 # Email: locdohong@gmail.com
-       thinhbosua123@gmail.com
+         thinhbosua123@gmail.com
 # Facebook: https://www.facebook.com/kido.loc.2808/
-# GitHub: (https://github.com/thinhbosua123)
-# https://thinhbosua123.github.io/Portfolio/
+# GitHub: (https://github.com/locdohong)
+# https://locdohong.github.io/Portfolio/
